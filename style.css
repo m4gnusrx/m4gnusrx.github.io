@@ -15,6 +15,10 @@ body, button, h1, h2, h3, h4, h5, h6 {
 #blockremental {
     background-image: linear-gradient(to bottom right, cyan, lime, lightgray);
 }
-#stmwts {
+#someThings {
     background-image: linear-gradient(to bottom, gray, white);
+}
+#twenty {
+    color: white;
+    background-image: radial-gradient(turquoise, black);
 }
